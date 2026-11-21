@@ -1,31 +1,31 @@
-# reading_list# Reading List 📚
+Reading List 📚
 
 A web-based Reading List project created using **Bolt AI** and deployed with **Vercel**. This project explores building a web application with AI-assisted development tools.
 
 <img width="1339" height="621" alt="Screenshot 2026-10-22 224931" src="https://github.com/user-attachments/assets/f51bf817-99ba-4f86-a41c-5a232a0d0663" />
 
-## 🌟 About the Project
+🌟 About the Project
 
 The Reading List is a personal project designed around organizing and keeping track of reading. It reflects my exploration of web development and the use of AI tools to bring an idea to life.
 
-## 🚀 Live Demo
+🚀 Live Demo
 
-**Try it here:** [Reading List Website](https://student-reading-list-z7d3.bolt.host/)
+Try it here:** [Reading List Website](https://student-reading-list-z7d3.bolt.host/)
 
-## 🛠️ Tools Used
+🛠️ Tools Used
 
 * **Bolt AI** — AI-assisted application development
 * **Vercel** — Deployment and hosting
 
 *Note: Add the programming languages and frameworks used by the generated project after verifying them in the source code.*
 
-## 💻 Getting Started
+💻 Getting Started
 
-### View Online
+View Online
 
 Visit the live demo using the link above.
 
-### Run Locally
+Run Locally
 
 1. Clone the repository:
 
@@ -39,20 +39,20 @@ Visit the live demo using the link above.
 
 4. Start the development server using the appropriate command for the project.
 
-## 🎯 Learning Objectives
+🎯 Learning Objectives
 
 * Explore AI-assisted web development.
 * Learn how to turn an idea into a web application.
 * Gain experience working with development and deployment tools.
 * Practice managing a project using GitHub.
 
-## 🔮 Future Improvements
+🔮 Future Improvements
 
 * Expand reading organization features.
 * Improve the user interface and user experience.
 * Add additional functionality based on future requirements.
 
-## 👩‍💻 Author
+👩‍💻 Author
 
 **Kanishka Tripathi**
 
